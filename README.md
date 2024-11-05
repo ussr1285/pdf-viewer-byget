@@ -6,4 +6,4 @@
 https://ussr1285.github.io/?pdfUrl=온라인에-업로드된-pdf-주소
 ```
 
-[예시](https://ussr1285.github.io/?pdfUrl=https://raw.github.com/ussr1285/pdf-viewer-byget/blob/main/test-pdf-sample.pdf)
+[예시](https://ussr1285.github.io/pdf-viewer-byget?pdfUrl=https://raw.github.com/ussr1285/pdf-viewer-byget/blob/main/test-pdf-sample.pdf)
